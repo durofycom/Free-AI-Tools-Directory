@@ -124,6 +124,7 @@ You can also check out our official **[Project Roadmap](./ROADMAP.md)** to see w
 | [**PhotoRoom**](https://www.photoroom.com/) | Edits product and portrait photos, removes backgrounds. | Computer Vision | Exports with watermark | No | `Image`, `Editing` |
 | [**Luma AI (Genie)**](https://lumalabs.ai/genie) | Generates 3D models from text prompts. | Text-to-3D Models | 10 free generations per month | No | `3D`, `Text-to-3D` |
 | [**Meshy.ai**](https://www.meshy.ai/) | Converts text and 2D images into 3D assets. | Text-to-3D, Image-to-3D | 100 free credits per month | No | `3D`, `Text-to-3D` |
+| [**ImagineClip**](https://imagineclip.com/) | AI video generator for avatar clips, stylized scenes, and social-ready videos. | Generative Video AI | Free plan available | No | `Video`, `Avatar`, `Gen-AI` |
 
 [⬆️ Back to Top](#-table-of-contents)
 
